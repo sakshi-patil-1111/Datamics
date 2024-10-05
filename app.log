@@ -1,0 +1,14 @@
+2024-10-06 03:34:49,082 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-10-06 03:34:50,342 - INFO - Processing email with subject: Your Food Delivery Receipt
+2024-10-06 03:34:51,324 - INFO - Saved attachment: attachments\receipt.pdf
+2024-10-06 03:34:51,731 - INFO - Processing email with subject: Invoice for Petrol Purchase
+2024-10-06 03:34:52,360 - INFO - Saved attachment: attachments\image.png
+2024-10-06 03:34:52,774 - INFO - Processing email with subject: Food Receipt from Restaurant
+2024-10-06 03:34:52,792 - INFO - Form Data: {'entry.23770198': '2032-10-06', 'entry.855132866': None, 'entry.793740564': 'Hi there,', 'entry.963910700': 32.5, 'entry.1797858785': '- Total Amount: $32.50'}
+2024-10-06 03:34:53,494 - INFO - Response Status Code: 400
+2024-10-06 03:34:53,495 - ERROR - Failed to submit to Google Form: 400
+2024-10-06 03:34:55,667 - ERROR - Failed to send email: 'NoneType' object has no attribute 'encode'
+2024-10-06 03:34:55,928 - INFO - Form Data: {'entry.23770198': '2060-10-06', 'entry.855132866': None, 'entry.793740564': 'Dear Customer,', 'entry.963910700': 60.75, 'entry.1797858785': 'N/A'}
+2024-10-06 03:34:57,978 - INFO - Response Status Code: 400
+2024-10-06 03:34:57,978 - ERROR - Failed to submit to Google Form: 400
+2024-10-06 03:34:59,958 - ERROR - Failed to send email: 'NoneType' object has no attribute 'encode'
